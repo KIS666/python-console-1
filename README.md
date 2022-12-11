@@ -34,7 +34,7 @@
 
 ## Введение в типы данных и циклы
 
-### [Задача №1](https://github.com/KIS666/python-console-1/blob/main/pair/pair.py)
+### [Задача №1](https://github.com/KIS666/python-console-1/blob/main/pair.py)
 Мы делаем MVP dating-сервиса, и у нас есть список парней и девушек (их число может варьироваться):\
 boys = ['Peter', 'Alex', 'John', 'Arthur', 'Richard']\
 girls = ['Kate', 'Liza', 'Kira', 'Emma', 'Trisha']\
